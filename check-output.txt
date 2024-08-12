@@ -1,0 +1,17 @@
+test_meminfo_avail (__main__.TestMemFuncs.test_meminfo_avail) ... ok
+test_meminfo_total (__main__.TestMemFuncs.test_meminfo_total) ... ok
+test_unallowed_module (__main__.TestModuleRestriction.test_unallowed_module)
+you have imported a prohibited module ... ok
+test_prog_output_no_args (__main__.TestNoArgs.test_prog_output_no_args)
+running assignment2.py ... skipped 'Not implemented, please ignore!'
+test_argparse_help (__main__.TestParseArgs.test_argparse_help)
+assignment2.py -h returns the required options ... ok
+test_percent (__main__.TestPercent.test_percent)
+percent_to_graph returns correct '##    ' format ... ok
+test_pids (__main__.TestPidList.test_pids) ... ok
+test_rss_total (__main__.TestPidMem.test_rss_total) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.060s
+
+OK (skipped=1)
